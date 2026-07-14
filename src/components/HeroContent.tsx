@@ -51,7 +51,7 @@ export const HeroContent: React.FC = () => {
         transition={{ duration: 1.5, ease: "easeOut" }}
       >
         {guestNameString && (
-          <div className="absolute -top-28 sm:-top-20 left-1/2 -translate-x-1/2 p-5 rounded-2xl border border-[#D4AF37]/30 bg-black/30 backdrop-blur-md shadow-[0_8px_32px_rgba(0,0,0,0.3)] flex flex-col items-center justify-center min-w-[240px]">
+          <div className="absolute -top-10 sm:-top-4 left-1/2 -translate-x-1/2 p-5 rounded-2xl border border-[#D4AF37]/30 bg-black/30 backdrop-blur-md shadow-[0_8px_32px_rgba(0,0,0,0.3)] flex flex-col items-center justify-center min-w-[240px]">
             <p className="text-[10px] uppercase tracking-[0.25em] mb-2 font-sans text-white/80">
               We cordially invite
             </p>
@@ -61,7 +61,7 @@ export const HeroContent: React.FC = () => {
           </div>
         )}
         
-        <h2 className="font-serif text-2xl sm:text-3xl text-[#D4AF37] mb-2 sm:mb-3 drop-shadow-md relative -top-14 sm:top-0">
+        <h2 className="font-serif text-2xl sm:text-3xl text-[#D4AF37] mb-2 sm:mb-3 drop-shadow-md relative -top-8 sm:top-0">
           Save the Date
         </h2>
         
