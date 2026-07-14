@@ -61,11 +61,11 @@ export const HeroContent: React.FC = () => {
           </div>
         )}
         
-        <h2 className="font-serif text-2xl sm:text-3xl text-[#D4AF37] mb-2 sm:mb-3 drop-shadow-md">
+        <h2 className="font-serif text-2xl sm:text-3xl text-[#D4AF37] mb-2 sm:mb-3 drop-shadow-md relative -top-24 sm:top-0">
           Save the Date
         </h2>
         
-        <h1 className="font-display font-light italic leading-[0.95] tracking-wide mt-6" style={{ fontSize: "clamp(2.4rem, 10vw, 5.5rem)", color: "#FFFFFF", textShadow: "0 2px 48px rgba(0,0,0,0.45), 0 0 80px #F5EDD01f", overflowWrap: "break-word", wordBreak: "break-word", maxWidth: "100%" }}>
+        <h1 className="font-display font-light italic leading-[0.95] tracking-wide mt-20 sm:mt-6" style={{ fontSize: "clamp(2.4rem, 10vw, 5.5rem)", color: "#FFFFFF", textShadow: "0 2px 48px rgba(0,0,0,0.45), 0 0 80px #F5EDD01f", overflowWrap: "break-word", wordBreak: "break-word", maxWidth: "100%" }}>
           Roshini
         </h1>
         <p className="font-serif leading-none select-none" style={{ fontSize: "clamp(3.5rem, 13vw, 6.5rem)", color: "#E8C547", textShadow: "0 0 72px rgba(232,197,71,0.4), 0 0 120px #F5EDD02e", margin: "0.05em 0" }}>
