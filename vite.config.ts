@@ -7,7 +7,7 @@ const SHARE_FAVICON_PATH = '/2026.07.16-20260612T100209Z-3-001/my/RWP01402.jpg';
 const SHARE_IMAGE_PATH = '/og-image.jpg';
 const SHARE_IMAGE_SOURCE = path.join(
   __dirname,
-  'public/4.jpg',
+  'public/2.jpg',
 );
 const SHARE_IMAGE_OUTPUT = path.join(__dirname, 'public/og-image.jpg');
 const DEFAULT_SITE_URL = 'https://gimhan-teneeshiya-weddinginvitation.vercel.app';
