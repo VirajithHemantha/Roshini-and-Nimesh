@@ -55,8 +55,9 @@ export const RSVPForm: React.FC = () => {
           cursor: not-allowed;
         }
       `}} />
-      <section className="py-20 sm:py-28 px-6 bg-[#FFFFF0] text-stone-800">
-        <div className="mx-auto max-w-xl text-center">
+      <section className="pt-8 pb-20 sm:py-28 px-6 bg-[#FFFFF0] text-stone-800 relative">
+        <div className="mx-auto max-w-xl text-center flex flex-col items-center">
+          <img src="/WhatsApp_Image_2026-07-14_at_23.49.20-removebg-preview.png" alt="" className="w-full max-w-[280px] mb-6 sm:hidden object-contain" />
           <p className="text-[10px] font-medium uppercase tracking-[0.6em] mb-3 text-[#AA8000] font-sans opacity-80">
             Kindly respond
           </p>

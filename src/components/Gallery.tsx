@@ -38,7 +38,7 @@ const galleryImages = [
 
 export const Gallery: React.FC = () => {
   return (
-    <section id="gallery" aria-label="Our Gallery" className="relative overflow-hidden py-24 sm:py-32 px-4 sm:px-6 bg-[#FFFFF0] text-stone-800">
+    <section id="gallery" aria-label="Our Gallery" className="relative overflow-hidden pt-24 pb-4 sm:py-32 px-4 sm:px-6 bg-[#FFFFF0] text-stone-800">
       <div className="pointer-events-none absolute inset-0 opacity-100" style={{ background: "radial-gradient(ellipse 75% 58% at 18% 28%, rgba(232,197,71,0.16) 0%, transparent 52%), radial-gradient(ellipse 50% 48% at 90% 72%, rgba(212,175,55,0.1) 0%, transparent 50%)" }} />
       <div className="pointer-events-none absolute -left-1/4 top-0 h-[min(60vw,480px)] w-[min(60vw,480px)] rounded-full blur-3xl opacity-30 bg-[#D4AF37]" />
       

@@ -61,7 +61,7 @@ export const HeroContent: React.FC = () => {
           </div>
         )}
         
-        <h2 className="font-serif text-2xl sm:text-3xl text-[#D4AF37] mb-2 sm:mb-3 drop-shadow-md relative -top-24 sm:top-0">
+        <h2 className="font-serif text-2xl sm:text-3xl text-[#D4AF37] mb-2 sm:mb-3 drop-shadow-md relative -top-14 sm:top-0">
           Save the Date
         </h2>
         
