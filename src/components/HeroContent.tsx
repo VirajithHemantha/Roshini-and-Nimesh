@@ -55,7 +55,7 @@ export const HeroContent: React.FC = () => {
             <p className="text-[10px] uppercase tracking-[0.25em] mb-2 font-sans text-white/80">
               We cordially invite
             </p>
-            <p className="font-serif text-2xl sm:text-3xl text-[#E8C547]" style={{ textShadow: "0 0 24px rgba(232,197,71,0.3)" }}>
+            <p className="font-serif text-2xl sm:text-3xl text-[#E8C547] whitespace-nowrap" style={{ textShadow: "0 0 24px rgba(232,197,71,0.3)" }}>
               {guestNameString}
             </p>
           </div>
