@@ -51,7 +51,7 @@ export const HeroContent: React.FC = () => {
         transition={{ duration: 1.5, ease: "easeOut" }}
       >
         {guestNameString && (
-          <div className="mb-10 mt-[-20px] p-5 rounded-2xl border border-[#D4AF37]/30 bg-black/30 backdrop-blur-md shadow-[0_8px_32px_rgba(0,0,0,0.3)] flex flex-col items-center justify-center min-w-[240px]">
+          <div className="absolute -top-28 sm:-top-20 left-1/2 -translate-x-1/2 p-5 rounded-2xl border border-[#D4AF37]/30 bg-black/30 backdrop-blur-md shadow-[0_8px_32px_rgba(0,0,0,0.3)] flex flex-col items-center justify-center min-w-[240px]">
             <p className="text-[10px] uppercase tracking-[0.25em] mb-2 font-sans text-white/80">
               We cordially invite
             </p>
