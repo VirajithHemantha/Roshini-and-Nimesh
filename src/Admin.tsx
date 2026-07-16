@@ -57,6 +57,8 @@ With love,
               >
                 <option value="Mr.">Mr.</option>
                 <option value="Mrs.">Mrs.</option>
+                <option value="Miss">Miss</option>
+                <option value="Ms.">Ms.</option>
                 <option value="Mr. & Mrs.">Mr. & Mrs.</option>
                 <option value="Family">Family</option>
                 <option value="Dear">Dear</option>
