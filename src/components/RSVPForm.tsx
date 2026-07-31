@@ -83,7 +83,7 @@ export const RSVPForm: React.FC = () => {
           </div>
           <p className="font-sans text-sm font-light leading-relaxed mb-4 mx-auto max-w-sm text-[#444444]">
             We Look Forward to Celebrating with You<br/>
-            Kindly let us know if you will be joining us by 30 July 2026.
+            Kindly let us know if you will be joining us by 4th August 2026.
           </p>
 
           <div>
